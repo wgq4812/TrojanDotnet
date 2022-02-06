@@ -1,0 +1,12 @@
+D:\文档\GitHub\TrojanDotnet\PublicLib\bin\Debug\net5.0\PublicLib.deps.json
+D:\文档\GitHub\TrojanDotnet\PublicLib\bin\Debug\net5.0\PublicLib.dll
+D:\文档\GitHub\TrojanDotnet\PublicLib\bin\Debug\net5.0\PublicLib.pdb
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.csproj.AssemblyReference.cache
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.AssemblyInfoInputs.cache
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.AssemblyInfo.cs
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.csproj.CoreCompileInputs.cache
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.dll
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\refint\PublicLib.dll
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\PublicLib.pdb
+D:\文档\GitHub\TrojanDotnet\PublicLib\obj\Debug\net5.0\ref\PublicLib.dll
